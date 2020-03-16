@@ -1,4 +1,4 @@
-@extends('layouts/static_page') //estende il layout
+@extends('layouts/static_page')
 @section('content')
   @foreach($cds as $cd)
   <div class="cd">
